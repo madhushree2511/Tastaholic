@@ -1,0 +1,6 @@
+{
+  "name": "Food Delivery App",
+  "description": "A modern, highly polished, responsive prototype of a food delivery application featuring detailed restaurant feeds, fast menu browsing, smooth cart actions, and persistent order checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
